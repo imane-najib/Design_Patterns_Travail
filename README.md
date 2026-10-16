@@ -18,4 +18,7 @@
 #### Utilisation de design pattern Strategy et adapter
 <img width="1470" height="595" alt="image" src="https://github.com/user-attachments/assets/d443c877-1e2d-4ba3-8fbd-14b0f586e06f" />
 
+#### test du code 
+<img width="1896" height="522" alt="image" src="https://github.com/user-attachments/assets/d66db222-8f1d-4d91-ab55-42ae9388075f" />
+
 
