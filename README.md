@@ -14,3 +14,6 @@
 <img width="1043" height="410" alt="image" src="https://github.com/user-attachments/assets/49b2087b-97c6-44ac-bb52-e447b2b4ba63" />
 
 ## EXERCICE 2
+### 1 - Digaramme de classe 
+#### Utilisation de design pattern Strategy
+<img width="1052" height="428" alt="image" src="https://github.com/user-attachments/assets/c7e3fc46-95c7-44fd-9380-458ed4e8c9f8" />
