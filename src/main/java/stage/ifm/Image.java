@@ -13,4 +13,11 @@ public class Image {
       this.compresser = compresser;
    }
 
+   public Compresser getCompresser() {
+      return compresser;
+   }
+
+   public FilterStrategy getFilterStrategy() {
+      return filterStrategy;
+   }
 }

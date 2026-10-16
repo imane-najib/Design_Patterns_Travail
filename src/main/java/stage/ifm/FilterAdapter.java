@@ -7,7 +7,7 @@ public class FilterAdapter implements FilterStrategy {
 
     @Override
     public int[] filter(int[] data) {
-        return new int[0];
+        return implNonStandard.appliquerFilter(FilterName, data);
     }
 
     public FilterAdapter(String filterName, ImplNonStandard implNonStandard) {
